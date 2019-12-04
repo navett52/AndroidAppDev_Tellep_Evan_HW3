@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Evans Tic Tac</string>
+    <string name="win">You won!</string>
+    <string name="lose">The computer won!</string>
+    <string name="tie">You tied!</string>
+    <string name="keepPlaying">Make your move</string>
+    <string name="new_game">New Game</string>
+</resources>
